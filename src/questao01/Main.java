@@ -1,4 +1,4 @@
-package questão01;
+package questao01;
 
 public class Main {
 
@@ -18,11 +18,11 @@ public class Main {
 		
 		Turma turma1 = new Turma(aluno1, aluno2, aluno3);
 		
-		System.out.println("A média do aluno 1 é: " + aluno1.calcularMedia());
-		System.out.println("A média do aluno 2 é: " + aluno2.calcularMedia());
-		System.out.println("A média do aluno 3 é: " + aluno3.calcularMedia());
+		System.out.println("A mï¿½dia do aluno 1 ï¿½: " + aluno1.calcularMedia());
+		System.out.println("A mï¿½dia do aluno 2 ï¿½: " + aluno2.calcularMedia());
+		System.out.println("A mï¿½dia do aluno 3 ï¿½: " + aluno3.calcularMedia());
 		
-		System.out.println("A média da turma 1 é: " + turma1.calcularMedia());
+		System.out.println("A mï¿½dia da turma 1 ï¿½: " + turma1.calcularMedia());
 
 	}
 

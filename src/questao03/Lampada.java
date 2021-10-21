@@ -1,4 +1,4 @@
-package questão03;
+package questao03;
 
 public class Lampada {
 
@@ -20,10 +20,10 @@ public class Lampada {
 	
 	public void imprimir() {
 		if (this.ligada.equals("ligada")) {
-			System.out.println("Lâmpada ligada");
+			System.out.println("Lï¿½mpada ligada");
 		}
 		if (this.ligada.equals("desligada")) {
-			System.out.println("Lâmpada desligada");
+			System.out.println("Lï¿½mpada desligada");
 		}
 	}
 	

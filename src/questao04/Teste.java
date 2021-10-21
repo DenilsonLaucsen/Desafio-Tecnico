@@ -1,8 +1,8 @@
-package questão02;
+package questao04;
 
-public class Main {
-
-	public static void main(String[] args) {
+public class Teste {
+    
+    public static void main(String[] args) {
 		System.out.println(processar(null));
 		System.out.println(processar("ab"));
 		System.out.println(processar("abc"));
@@ -30,5 +30,5 @@ public class Main {
 			}
 		}
 	}
-
+    
 }

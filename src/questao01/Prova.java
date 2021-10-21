@@ -1,4 +1,4 @@
-package questão01;
+package questao01;
 
 public class Prova {
 
@@ -11,8 +11,8 @@ public class Prova {
 	}
 
 	
-	// Caso a nota ultrapasse o valor 10, a nota será dada como 10.
-	// Caso a nota seja de valor negativo, a nota será dada como 0.
+	// Caso a nota ultrapasse o valor 10, a nota serï¿½ dada como 10.
+	// Caso a nota seja de valor negativo, a nota serï¿½ dada como 0.
 	public double calcularNotaTotal() {
 		if (notaParte1 + notaParte2 > 10) {
 			return 10;

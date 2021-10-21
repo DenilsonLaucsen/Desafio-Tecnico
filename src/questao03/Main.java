@@ -1,4 +1,4 @@
-package questão03;
+package questao03;
 
 public class Main {
 
